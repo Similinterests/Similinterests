@@ -1,0 +1,17 @@
+.body{
+    background-color:#FF9900;
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+}
+.header{
+    background-color:#6599FF;
+    color:#f6f7f8;
+}
+.pHead{
+    color:#f6f7f8;
+    display:inline-block;
+    vertical-align:bottom;
+}
+.pInfo{
+    color:#f6f7f8;
+    display:inline-block;
+}
