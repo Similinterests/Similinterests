@@ -1,0 +1,35 @@
+.h1{
+    text-align:center;
+    color:white;
+}
+.h2{
+    text-align:center;
+    color:white;
+}
+.p1{
+    text-align:center;
+    color:white;
+}
+.body{
+    background-color:#FF9900;
+    font-family: 'lucida grande',tahoma,verdana,arial,sans-serif;
+}
+.form1{
+    text-align:center;
+    color:white;
+    background-color:transparent;
+}
+.name{
+    width:75px;
+}
+.namestake{
+    background-color:#6599FF;
+    padding:2px;
+}
+.submit{
+    padding-left:7px;
+    padding-right:7px;
+    padding-bottom:3px;
+    padding-top:3px;
+    alignment-adjust:central;
+}
